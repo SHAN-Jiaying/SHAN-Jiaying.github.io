@@ -1,11 +1,12 @@
 title: SHAN Jiaying # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Hello everyone, I am a computer science and technology undergraduate student from Beijing Normal University and Hong Kong Baptist University. 
   <br><br>
-  Second description 
+  Hi there, 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  I am a computer science and technology undergraduate student from Beijing Normal University and Hong Kong Baptist University.  
+  <br><br>
+  <a href="mailto:shan_jiaying@outlook.com">Send me an email</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
