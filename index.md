@@ -8,8 +8,8 @@
 <img src="images/flask.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Mathematical-Contest-in-Modeling](https://github.com/SHAN-Jiaying/Mathematical-Contest-in-Modeling)
+<img src="images/Mathematical.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
