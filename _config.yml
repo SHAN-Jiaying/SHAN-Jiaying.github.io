@@ -1,11 +1,11 @@
 title: SHAN Jiaying # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br>
+  <strong style="font-size: 1.2rem;">Hi there,😄</strong>
   <br><br>
-  <strong style="font-size: 1.2rem;">Hi there,</strong>
-  <br>
   I am a computer science and technology undergraduate student from Beijing Normal University and Hong Kong Baptist University.  
-  <br>
+  <br><br>
   <a href="mailto:shan_jiaying@outlook.com">Send me an email</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
