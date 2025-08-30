@@ -24,9 +24,10 @@
 <img src="images/qf.jpg?raw=true"/>
 
 ---
-### Category Name 2
+- [Machine-Learning-Project](https://github.com/SHAN-Jiaying/Machine-Learning-Project)
+<img src="images/nl.jpg?raw=true"/>
 
-- [Project 1 Title](http://example.com/)
+---
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
