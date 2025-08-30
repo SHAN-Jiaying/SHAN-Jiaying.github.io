@@ -12,10 +12,12 @@
 <img src="images/Mathematical.jpg?raw=true"/>
 
 ---
-HCI project
-[Unity 3D Project](https://github.com/SHAN-Jiaying/unity3D_project)
-[Quant-UX](https://github.com/SHAN-Jiaying/Quant-UX)
-[Shapes-XR](https://github.com/SHAN-Jiaying/ShapesXR)
+# HCI project
+1. [Unity 3D Project](https://github.com/SHAN-Jiaying/unity3D_project)
+
+2. [Quant-UX](https://github.com/SHAN-Jiaying/Quant-UX)
+
+3. [Shapes-XR](https://github.com/SHAN-Jiaying/ShapesXR)
 
 ---
 [A ML Based Real Time Fraud Detection System in Quantum Finance](https://github.com/SHAN-Jiaying/A-ML-Based-Real-Time-Fraud-Detection-System-in-Quantum-Finance?tab=readme-ov-file#a-ml-based-real-time-fraud-detection-system-in-quantum-finance)
