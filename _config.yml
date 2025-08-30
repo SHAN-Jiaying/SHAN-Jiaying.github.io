@@ -4,7 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <strong style="font-size: 1.2rem;">Hi there,👋</strong>
   <br><br>
-  I am a computer science and technology undergraduate student from Beijing Normal University and Hong Kong Baptist University.  
+  I am a computer science and technology undergraduate student from <a href="https://fst.uic.edu.cn/cst/">Beijing Normal University and Hong Kong Baptist University</a>, advised by Prof. <a href="https://www.uic.edu.cn/faculty.htm#/jzhao/cn">Dyce ZHAO</a>
   <br><br>
   <a href="mailto:shan_jiaying@outlook.com">Send me an email</a> 
   
