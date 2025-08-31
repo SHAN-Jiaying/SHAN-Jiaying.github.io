@@ -57,5 +57,5 @@
 
 ---
 [Hands On Data Analytics for Everyone](https://github.com/SHAN-Jiaying/SHAN-Jiaying-Hands-On-Data-Analytics-for-Everyone)
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
+<p style="font-size:11px">Copyright © 2025 <a href="https://shan-jiaying.github.io/">SHAN Jiaying</a></p>
