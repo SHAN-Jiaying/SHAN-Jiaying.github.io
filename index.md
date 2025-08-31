@@ -32,7 +32,7 @@
 <img src="images/E-R.jpg?raw=true"/>
 
 ---
-[Data-Communications-and-Networking]([http://example.com/](https://github.com/SHAN-Jiaying/Data-Communications-and-Networking))
+[Data-Communications-and-Networking](https://github.com/SHAN-Jiaying/Data-Communications-and-Networking))
 
 ---
 [Design-and-Analysis-of-Algorithms](https://github.com/SHAN-Jiaying/Design-and-Analysis-of-Algorithms)
@@ -41,13 +41,13 @@
 [python-workshop](https://github.com/SHAN-Jiaying/python-workshop)
 
 ---
-[Computer Organisation](http://example.com/)
+[Computer Organisation](https://github.com/SHAN-Jiaying/Computer-Organisation)
 
 ---
 [Systems and Web Development Workshop](https://github.com/SHAN-Jiaying/Systems-and-Web-Development-Workshop)
 
 ---
-[Object-Oriented Programming](https://github.com/SHAN-Jiaying/Object-Oriented-Programming/upload)
+[Object-Oriented Programming](https://github.com/SHAN-Jiaying/Object-Oriented-Programming)
 
 ---
 [Ethics in An Era of Artificial Intelligence and Robotics](https://github.com/SHAN-Jiaying/Ethics-in-An-Era-of-Artificial-Intelligence-and-Robotics-)
@@ -56,6 +56,6 @@
 [Foundations of C Programming](https://github.com/SHAN-Jiaying/Foundations-of-C-Programming/tree/main)
 
 ---
-[Hands On Data Analytics for Everyone](https://github.com/SHAN-Jiaying/SHAN-Jiaying-Hands-On-Data-Analytics-for-Everyone)
+[Hands On Data Analytics for Everyone](https://github.com/SHAN-Jiaying/Hands-On-Data-Analytics-for-Everyone)
 
 <p style="font-size:11px">Copyright © 2025 <a href="https://shan-jiaying.github.io/">SHAN Jiaying</a></p>
