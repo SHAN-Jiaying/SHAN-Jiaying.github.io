@@ -32,7 +32,7 @@
 <img src="images/E-R.jpg?raw=true"/>
 
 ---
-[Data-Communications-and-Networking](https://github.com/SHAN-Jiaying/Data-Communications-and-Networking))
+[Data-Communications-and-Networking](https://github.com/SHAN-Jiaying/Data-Communications-and-Networking)
 
 ---
 [Design-and-Analysis-of-Algorithms](https://github.com/SHAN-Jiaying/Design-and-Analysis-of-Algorithms)
